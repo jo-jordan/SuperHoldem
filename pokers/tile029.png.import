@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture"
+path="res://.import/tile029.png-03737f7e8aaad8314512c4e5063f6bbe.res"
+group_file="res://pokers.atlastex"
+valid=true
+[deps]
+
+
+source_file="res://pokers/tile029.png"
+dest_files=[ "res://.import/tile029.png-03737f7e8aaad8314512c4e5063f6bbe.res" ]
+
+[params]
+
+atlas_file="res://pokers.atlastex"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true

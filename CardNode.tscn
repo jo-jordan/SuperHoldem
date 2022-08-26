@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://pokers.atlastex.png" type="Texture" id=1]
+
+[sub_resource type="Animation" id=1]
+resource_name = "test"
+
+[node name="CardNode" type="Node2D"]
+position = Vector2( 8, 0 )
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+anims/test = SubResource( 1 )
+
+[node name="CardSprite" type="Sprite" parent="."]
+position = Vector2( 48, 78 )
+scale = Vector2( 0.495556, 0.495556 )
+texture = ExtResource( 1 )
+region_rect = Rect2( 932, 4, 225, 315 )
