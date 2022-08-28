@@ -4,5 +4,6 @@
 radiance_size = 1
 
 [resource]
+resource_local_to_scene = true
 background_sky = SubResource( 1 )
 background_color = Color( 0.0823529, 0.0745098, 0.0745098, 1 )

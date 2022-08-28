@@ -1,6 +1,5 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://assets/pokers/poker0.png" type="Texture" id=1]
 [ext_resource path="res://CardNode.gd" type="Script" id=2]
 
 [sub_resource type="Animation" id=1]
@@ -14,6 +13,5 @@ anims/test = SubResource( 1 )
 
 [node name="CardSprite" type="Sprite" parent="."]
 scale = Vector2( 0.6, 0.6 )
-texture = ExtResource( 1 )
 region_rect = Rect2( 0, 0, 118, 161 )
 region_filter_clip = true

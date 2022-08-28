@@ -41,7 +41,7 @@ func _ready():
 
 	
 	# fill other areas
-	for i in cl.size():
+	for i in ol.size():
 		for j in 2:
 			var opa = get_node("OtherPokerArea" + str(i + 1))
 			var cn:CardNode = cnr.instance()
