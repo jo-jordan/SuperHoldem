@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/poker3.png-6af5053abfbb74cba094d715d37edf5c.image"
+
+[deps]
+
+source_file="res://assets/pokers/poker3.png"
+dest_files=[ "res://.import/poker3.png-6af5053abfbb74cba094d715d37edf5c.image" ]
+
+[params]
+

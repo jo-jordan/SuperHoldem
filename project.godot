@@ -8,11 +8,21 @@
 
 config_version=4
 
+_global_script_classes=[ {
+"base": "Node2D",
+"class": "CardNode",
+"language": "GDScript",
+"path": "res://CardNode.gd"
+} ]
+_global_script_class_icons={
+"CardNode": ""
+}
+
 [application]
 
 config/name="SuperHoldem"
 run/main_scene="res://main.tscn"
-boot_splash/image="res://holdem_table.png"
+boot_splash/show_image=false
 boot_splash/bg_color=Color( 1, 1, 1, 1 )
 config/icon="res://icon.png"
 

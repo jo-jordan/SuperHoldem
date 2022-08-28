@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/poker16.png-768f0239b08f0218b5aad0688e00025c.image"
+
+[deps]
+
+source_file="res://assets/pokers/poker16.png"
+dest_files=[ "res://.import/poker16.png-768f0239b08f0218b5aad0688e00025c.image" ]
+
+[params]
+
