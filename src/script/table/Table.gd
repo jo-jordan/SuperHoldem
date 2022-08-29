@@ -29,7 +29,7 @@ func _ready():
 	
 	var offsetX = 118 * 0.6
 	
-	var cnr:Resource = preload("res://CardNode.tscn")
+	var cnr:Resource = preload("res://src/script/card/CardNode.tscn")
 	
 	# fill self area
 	var spa = $SelfPokerArea

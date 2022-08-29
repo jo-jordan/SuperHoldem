@@ -12,7 +12,7 @@ _global_script_classes=[ {
 "base": "Node2D",
 "class": "CardNode",
 "language": "GDScript",
-"path": "res://CardNode.gd"
+"path": "res://src/script/card/CardNode.gd"
 } ]
 _global_script_class_icons={
 "CardNode": ""
@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="SuperHoldem"
-run/main_scene="res://main.tscn"
+run/main_scene="res://src/script/main/main.tscn"
 boot_splash/show_image=false
 boot_splash/use_filter=false
 boot_splash/bg_color=Color( 1, 1, 1, 1 )

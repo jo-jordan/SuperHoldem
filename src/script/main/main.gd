@@ -8,7 +8,7 @@ func create_instance(path):
 	
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	add_child(create_instance("res://Table.tscn"))
+	add_child(create_instance("res://src/script/table/Table.tscn"))
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
